@@ -21,3 +21,13 @@ Let's GO
 
 Secondly, planning ahead is crucial. Before starting a project, think about the end goal and break it down into smaller tasks. Creating a plan will make it easier to stay focused and on track. You can use tools like Trello or Asana to help with project management and task tracking. These tools can help keep you organized and make sure you don't forget anything important. 
  - 来自帮助助手
+
+# 2023-11-21
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools to remain competitive in the job market. Here are some tips to help you grow as a programmer:
+
+1. Stay current with technology: Keep an eye on new developments and trends in your field to understand what skills are in demand.
+2. Learn new programming Languages: Explore different programming langauges to expand your skill set and better understand how various technologies work. 
+3. Practice coding challenges: By solving coding problems and participating in programming competitions, you can improve your problem-solving skills and learn new techniques.  
+4. Attend conferences and workshops: These events are great opportunities to network with other professionals, learn about new tools and technologies, and attend workshops to improveyour skills.   
+5. Seek feedback and critique: Ask for feedback on your work and accept criticism as an opportunity to learn and improve. This will helpyou grow and become a better programmer.    
+6. Don't be afraid to ask questions: Asking questions is a sign of humility and a desire tolearn. There'
