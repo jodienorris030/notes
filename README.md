@@ -31,3 +31,6 @@ Secondly, planning ahead is crucial. Before starting a project, think about the 
 4. Attend conferences and workshops: These events are great opportunities to network with other professionals, learn about new tools and technologies, and attend workshops to improveyour skills.   
 5. Seek feedback and critique: Ask for feedback on your work and accept criticism as an opportunity to learn and improve. This will helpyou grow and become a better programmer.    
 6. Don't be afraid to ask questions: Asking questions is a sign of humility and a desire tolearn. There'
+
+# 2023-11-22
+- "Keep it simple, stupid!"
