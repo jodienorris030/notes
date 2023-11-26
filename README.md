@@ -47,3 +47,10 @@ Remember to take breaks throughout the day to avoid burnout and maintain focus. 
 
 # 2023-11-25
 - "Keep it simple, stupid!"
+
+# 2023-11-26
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques such as the MoSCoW method (Must have, Should have and Could have) to categorize your task and prioritize them accordingly. 
+ 其次，明智地规划你的时间。在编程时，合理安排时间至关重要。你可以为每个任务分配特定的时间段，以确保你在规定的时间内完成任务。此外，避免在高峰时段进行编程，因为这可能导致干扰和低效率。 保持组织。良好的组织是提高编程效率的关键。使用版本控制系统（如Git）来跟踪代码更改，并确保代码组织得井井有条。这可以帮助你更容易地找到和修复错误，同时也有助于团队协作。
+最后，不断学习和提高。编程是一个不断发展的领域，要成为一名成功的程序员，你需要不断学习新技能和最佳实践。阅读博客、参加编程社区和研讨会，以及学习新编程语言和技术，都是提高你技能和知识的有效方法。通过不断努力和实践，你将能够在编程领域取得更大的成功。
