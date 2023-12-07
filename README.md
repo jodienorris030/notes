@@ -106,3 +106,9 @@ Remember that programming is a collaborative effort, so be sure to communicate e
 
 # 2023-12-06
 - Today's programming wisdom is: "Premature optimization is the root of all evil" - Sir Tony Hoare. This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity, bugs, and wasted time. It's better to write clean, simple code first and optimize only when profiling reveals performance bottlenecks.
+
+# 2023-12-07
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential obstacles and challenges, so you're better prepared to tackle them. It will also help to keep you organized and on track with your goals. 
+ - 来自NLP
