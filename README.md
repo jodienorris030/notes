@@ -112,3 +112,6 @@ Remember that programming is a collaborative effort, so be sure to communicate e
 
 Second, planning ahead is crucial. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential obstacles and challenges, so you're better prepared to tackle them. It will also help to keep you organized and on track with your goals. 
  - 来自NLP
+
+# 2023-12-08
+- Today's programming wisdom is to write code that is readable, maintainable, and testable. This means using clear and concise variable names, commenting your code effectively, and organizing it into logical modules or functions. It also means avoiding unnecessary complexity and adhering to established best practices and design patterns. Finally, writing automated tests for your code can help ensure that it works as intended and catches bugs early on. By prioritizing these principles, you can create software that is not only functional but also easy to understand and modify over time.
