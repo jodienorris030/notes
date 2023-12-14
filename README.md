@@ -136,3 +136,6 @@ Optimizing code before it's necessary can lead to overly complex and difficult-t
 
 # 2023-12-13
 - Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and concise variable names, commenting your code thoroughly, and breaking complex problems down into smaller, more manageable functions or modules. Remember that code is read far more often than it is written, so strive to make your code as readable and self-explanatory as possible. Additionally, always keep in mind the potential for future changes or updates to your code, and write it in a way that can easily be modified or extended as needed. By prioritizing clarity and maintainability in your coding practices, you will save yourself and your colleagues time and headaches down the road.
+
+# 2023-12-14
+- "Keep it simple, stupid!"
