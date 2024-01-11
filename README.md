@@ -259,3 +259,8 @@ Lastly, maintain organization and clarity inyour code and project files. Use ver
 
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time for each step. Planning ahead will ensure you have a clear path to follow and can avoid getting lost or stuck in the middle of a project. 
  - 来自Helpful Assistant
+
+# 2024-01-11
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, always strive for simplicity in your solutions. Avoid unnecessary complexity and over-engineering. A clear, concise codebase that's easy to understand and maintain often leads to fewer bugs, better scalability, and more efficient collaboration among developers." 
+
+In practice, this means choosing the right algorithms and data structures, writing clean and modular code, and adhering to the principles of good software design such as SOLID. It also involves refactoring regularly, commenting your code effectively, and using established design patterns when appropriate. Always remember that code is read far more often than it is written, so write it with clarity and simplicity in mind.
