@@ -278,3 +278,9 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 Next, use a scheduling tool or plan to allocate time to each task. Allocating time helps you stay focused and makes sure that each aspect of your task is completed. You can use tools like Trello, Asana, or Google Calendar to schedule your day and keep track of tasks. 
  - 来自帮助助手
+
+# 2024-01-15
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, such as artificial intelligence, machine learning, and blockchain.
+
+To become a successful programmer, one should also have a strong foundation in core programming concepts, including data structures, algorithms, software engineering, version control, testing, debugging, etc. Additionally, programmers should be able to communicate effectively with their teammates, clients, or stakeholders to understand their needs and deliver high-quality software solutions. 
+ - 来自NLP
