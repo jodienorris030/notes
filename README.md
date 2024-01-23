@@ -313,3 +313,11 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 
 # 2024-01-22
 - "Today's programming wisdom is to remember that code is read far more often than it is written. Strive for clarity and maintainability in your work, as it not only benefits those who will interact with your code in the future but also improves your own efficiency when revisiting past projects. Always keep in mind the SOLID principles, embrace version control, write tests to ensure reliability, and practice defensive programming. Lastly, continuous learning is key; languages evolve, paradigms shift, and new best practices emerge, so stay curious and adapt."
+
+# 2024-01-23
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means understanding the needs of your users and clients and adapting your work to meet those needs.
+
+To be an effective programmer, you must also be able to work well with others. That means communicating effectively, both orally and in writing, as well as understanding how to collaborate with colleagues. You should also have a basic understanding of software development processes, such as Agile methodology, so that you can work efficiently in a team environment. 
+ - 来自nounproject.com
+- by Freepik
+最后更新于2 小时前
