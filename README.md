@@ -328,3 +328,8 @@ To be an effective programmer, you must also be able to work well with others. T
 Another piece of wisdom involves version control. Using tools like Git and GitHub allows you to easily track changes, collaborate with others,and keep your code organized and clean.This can save you time and headaches down the road when it comes to debugging and maintaining your project. 
  使用敏捷开发方法，如Scrum或Kanban，可以帮助你更有效地管理项目进度和任务。这些方法鼓励团队协作，定期评估进度，并根据需要调整计划。这可以确保你的项目按时完成，同时避免在最后一刻出现紧急修复。
 最后，不断学习和适应新技术是成为一名成功的程序员的关键。技术不断发展，新的编程语言和框架层出不穷。通过阅读博客、参加研讨会和讨论组，以及学习新技能，你可以保持竞争力，并确保你在行业中的长期成功。
+
+# 2024-01-25
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, strive for simplicity in design and implementation. Clear, concise code that's easy to read, understand, and maintain often leads to fewer bugs, easier collaboration, and better scalability. Always aim to reduce complexity wherever possible without sacrificing functionality." 
+
+"Also remember, 'Premature optimization is the root of all evil.' – Donald Knuth. Focus on writing clean, working code first, then optimize only where necessary, based on data and profiling results. This helps avoid over-engineering and ensures your software remains flexible and adaptable to changing requirements."
