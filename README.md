@@ -418,3 +418,13 @@ In software development, this quote emphasizes that over-concern with optimizing
 
 # 2024-02-13
 - "Keep it simple, stupid!"
+
+# 2024-02-14
+- Today's programming wisdom: "Code is read far more often than it is written. Strive for clarity and maintainability in your work, as the true cost of software lies in its ongoing maintenance, not its initial creation." 
+
+In practice, this means:
+1. Write clean, well-structured code with clear naming conventions.
+2. Use comments judiciously to explain complex logic or reasoning.
+3. Adhere to SOLID principles and design patterns that promote flexibility and scalability.
+4. Keep your functions small and focused; avoid over-complicated methods.
+5. Remember that future you (or another developer) will appreciate good documentation and simplicity just as much as the end user benefits from a well-functioning application.
