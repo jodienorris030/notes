@@ -527,3 +527,6 @@ In essence, "Code for the maintainers, not just for the machine."
 5. Code review: Reviewing others' code can help improve coding standards and best practices. At the same time, receiving feedback on your code will help identify areas for improvement.    
 6. Solve real-world problems: Try to apply your programming skills to solve real problems, either through personal projects or volunteering for non-profit organizations. This will not only help build your portfolio but also give you practical experience in problem solving.     
 7. Learn to communicate effectively: As a developer, you will need to work closely with nontechnical team members. Effective communication is crucial for understanding their needs and translating technical concepts into plain language.
+
+# 2024-03-06
+- "Keep it simple, stupid!"
